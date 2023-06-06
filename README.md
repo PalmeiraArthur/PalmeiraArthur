@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @PalmeiraArthur
 - 👀 I’m interested in photoshop and python
-- 🌱 I’m currently learning pyhton in college
-- 💞️ I’m looking to collaborate on python projects
-- 📫 How to reach me ...
+- 
+![image](https://github.com/PalmeiraArthur/PalmeiraArthur/assets/135675360/5288ae64-6933-435a-ac0f-7420220635a0)
 
-<!---
-PalmeiraArthur/PalmeiraArthur is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<div style="display: inline_block">
+  <img align="center" alt="Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+
+
+</div>
