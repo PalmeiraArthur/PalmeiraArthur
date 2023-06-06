@@ -1,5 +1,6 @@
 - 👋 Hi, I’m @PalmeiraArthur
 - 👀 I’m interested in photoshop and python
+- 🏢 I study at the Unit-AL college
 
 ![PalmeiraArthur GitHub stats](https://github-readme-stats.vercel.app/api?username=PalmeiraArthur&show_icons=true&theme=midnight-purple)
 
