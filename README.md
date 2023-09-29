@@ -1,6 +1,7 @@
-- 👋 Hi, I’m @PalmeiraArthur
-- 👀 I’m interested in photoshop and python
-- 🏢 I study at the Unit-AL college
+- 👋 Oi, me chamo Arthur Palmeira
+- 🏢 Graduando em Ciência da Computação pelo Centro Universitario de Maceió (UNIMA-AFYA)
+- 👀 Interesse nas áreas de programação e desing
+- 🖥️ Atualmente estudando JavaScript
 
 ![PalmeiraArthur GitHub stats](https://github-readme-stats.vercel.app/api?username=PalmeiraArthur&show_icons=true&theme=midnight-purple)
 
