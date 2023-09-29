@@ -1,5 +1,5 @@
 Contatos: <div style="display: inline_block">
-  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"> INSTAGRAM<img align="center" alt="Figma" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="Figma" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
 
   
 - 👋 Oi, me chamo Arthur Palmeira
