@@ -1,17 +1,14 @@
-Contatos: <div style="display: inline_block">
-  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
-  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
-  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
-
-
-
-  
 - 👋 Oi, me chamo Arthur Palmeira
 - 🏢 Graduando em Ciência da Computação pelo Centro Universitario de Maceió (UNIMA-AFYA)
 - 👀 Interesse nas áreas de programação e desing
 - 🖥️ Atualmente estudando JavaScript
 
+Contatos: <div style="display: inline_block">
+  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="Discord" src="https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white"/></a>
+  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
+  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
 ![PalmeiraArthur GitHub stats](https://github-readme-stats.vercel.app/api?username=PalmeiraArthur&show_icons=true&theme=midnight-purple)
 
 -🖥️ Experiencia nessas linguagens: <div style="display: inline_block">
