@@ -1,6 +1,6 @@
 - 👋 Oi, me chamo Arthur Palmeira
 - 🏢 Graduando em Ciência da Computação pelo Centro Universitario de Maceió (UNIMA-AFYA)
-- 👀 Interesse nas áreas de programação e desing
+- 👀 Interesse nas áreas de programação e design
 - 🖥️ Atualmente estudando JavaScript
 
 Contatos: <div style="display: inline_block">
