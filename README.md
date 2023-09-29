@@ -1,3 +1,7 @@
+Contatos: <div style="display: inline_block">
+  <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"> INSTAGRAM<img align="center" alt="Figma" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
+
+  
 - 👋 Oi, me chamo Arthur Palmeira
 - 🏢 Graduando em Ciência da Computação pelo Centro Universitario de Maceió (UNIMA-AFYA)
 - 👀 Interesse nas áreas de programação e desing
