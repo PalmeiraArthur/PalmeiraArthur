@@ -10,6 +10,7 @@ Contatos: <div style="display: inline_block">
   <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="gmail" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   
 ![PalmeiraArthur GitHub stats](https://github-readme-stats.vercel.app/api?username=PalmeiraArthur&show_icons=true&theme=midnight-purple)
+<img height = "180em" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=PalmeiraArthur&layout=compact">
 
 -🖥️ Experiencia nessas linguagens: <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
