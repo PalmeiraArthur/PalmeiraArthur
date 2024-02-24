@@ -11,7 +11,7 @@ Contatos: <div style="display: inline_block">
   
 ![PalmeiraArthur GitHub stats](https://github-readme-stats.vercel.app/api?username=PalmeiraArthur&show_icons=true&theme=midnight-purple)
 <br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmeiraArthur&theme=midnight-purple)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=PalmeiraArthur&theme=midnight-purple&layout=compact)
 
 -🖥️ Experiencia nessas linguagens: <div style="display: inline_block">
   <img align="center" alt="HTML5" src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/>
