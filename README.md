@@ -5,8 +5,8 @@
 
 Contatos: <div style="display: inline_block">
   <a href= "https://www.instagram.com/arthurpalmeira_/" target="_blank"><img align="center" alt="Instagram" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white"/></a>
-  <a href= "mailto:arthurpoag@gmail.com" target="_blank"><img align="center" alt="gmail" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
   <a href= "https://www.linkedin.com/in/arthur-palmeira-omena-alencar-guimar%C3%A3es-03a8a024b/" target="_blank"><img align="center" alt="Linkedin" src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
   
 ![PalmeiraArthur GitHub stats](https://github-readme-stats.vercel.app/api?username=PalmeiraArthur&show_icons=true&theme=midnight-purple)
 <br>
